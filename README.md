@@ -1,0 +1,1 @@
+Please update the value of JAVA_HOME according to your installation directory of the JDK you want
